@@ -6,7 +6,7 @@ Program2 - Write a Python program to create a class representing a stack data st
 
 Program3 -  Write a Python program to create a class representing a shopping cart. Include methods for adding and removing items, and calculating the total price.
 
-program4 - Write a Python program to create a class representing a bank. Include methods formanaging customer accounts and transactions.
+Program4 - Write a Python program to create a class representing a bank. Include methods formanaging customer accounts and transactions.
 
 Program5 - Create a Bus child class that inherits from the Vehicle class. The default fare charge of any vehicle is seating capacity * 100. If Vehicle is Bus instance, we need to add an extra 10% on full fare as a maintenance charge. So total fare for bus instance will become the final amount = total fare + 10% of the total fare.
 
@@ -31,4 +31,12 @@ Program14 - To find the Euclidean distance between two points in a two dimension
 
 Program15 - Create a Python program for an online quiz system. Implement classes for quizzes, questions, and users. Include methods for taking quizzes, scoring, and displaying results.
 
-Program16 - 
+Program16 - 16. Build a hotel reservation system with classes for rooms, guests, and reservations. Implement methods for checking room availability, booking rooms, and generating invoices.
+
+Program17 - Develop a time tracking system for employees with classes for employees, projects, and time entries. Implement methods for logging hours, generating timesheets, and calculating overtime.
+
+Program18 - Create a conference room booking system with classes for rooms, reservations, and users. Include methods for checking room availability, booking time slots, and sending notifications.
+
+Program19 - Design a recipe management system with classes for recipes, ingredients, and users. Implement methods for adding recipes, searching by ingredients
+
+Program20 - Build a simulation of an ATM system with classes for accounts, transactions, and users. Implement methods for withdrawing cash, checking balances, and handling PIN verification.
